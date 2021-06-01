@@ -23,6 +23,7 @@ for your own machine. I'll do my best to answer questions related to parameters 
 - Chat: Discord with [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp) and Polari irc client
 - Fetch: Neofetch
 - Widgets: [Eww](https://github.com/elkowar/eww)
+- App Launchers: Rofi and [Jgmenu](https://github.com/johanmalm/jgmenu) for root window right click
 - Blurring wallpaper: ngynLk's fork of [feh-blur](https://github.com/ngynLk/feh-blur-wallpaper)
 - Notifications: Dunst with scripts for a rofi based notification center (see [here](https://github.com/Barbarossa93/Genome/blob/4a08d3cfd0900807aefaa9f9241a6dbf926c549b/.config/dunst/dunstrc#L77), [here](https://github.com/Barbarossa93/Genome/blob/main/.local/bin/dunst_logger.sh) and [here](https://github.com/Barbarossa93/Genome/blob/main/.local/bin/rofi_notif_center.sh))
 - Compositor: Jonaburg's fork of [Picom](https://github.com/jonaburg/picom)
